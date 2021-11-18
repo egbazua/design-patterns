@@ -2,9 +2,9 @@
 
 Este ejemplo ilustra la estructura del patrón de diseño Chain of Responsibility. Se centra en responder las siguientes preguntas:
 
-   • ¿De qué clases se compone?
-   • ¿Qué papeles juegan esas clases?
-   • ¿De qué forma se relacionan los elementos del patrón?
+  •  ¿De qué clases se compone?
+  •  ¿Qué papeles juegan esas clases?
+  •  ¿De qué forma se relacionan los elementos del patrón?
 
 
  */
